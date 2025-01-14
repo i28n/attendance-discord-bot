@@ -1,16 +1,16 @@
 {
-    "TOKEN": "TOKEN",
-    "CLIENT_ID": "Bot_ID",
-    "GUILD_ID": "Server_ID",
+    "TOKEN": "MTMyODY1NzM4MzY1MTY3NjIyMg.Glg1Qa.aMmqZXmyhpdXNNdzpIpX5SEMnCLsXuTPKfm6xQ",
+    "CLIENT_ID": "1328657383651676222",
+    "GUILD_ID": "1318341837554974791",
     "options": [
         {
-            "name": "Section Name",
-            "admins": ["ID", "ID"],
+            "name": "الادارة",
+            "admins": ["780093194691805195", "ID"],
             "image": "LINK",
             "emoji": "🛠️",
-            "logchannel": "ID",
-            "role": "ID"
+            "logchannel": "1318390530501251153",
+            "role": "1318382266497372211", "1319079747506016337"
         }
     ],
-    "managerLogChannel": "ID"
+    "managerLogChannel": "1318390530501251153"
 }
